@@ -1,0 +1,5 @@
+* text=auto eol=lf
+assets/icons/*.svg -text
+assets/drawio/nn-model-library.xml -text
+*.png binary
+*.pptx binary
