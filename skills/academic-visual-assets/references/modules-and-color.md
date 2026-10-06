@@ -1,6 +1,6 @@
 # Consistent modules and color
 
-Standardize reusable visual vocabulary, not an architecture's scientific details. Begin with the uploaded reference and the established paper style; adapt prefab shapes to it. Without a reference use the small palette examples, not a venue-to-color rule.
+Standardize reusable visual vocabulary, not an architecture's scientific details. Read [design.md](../../../design.md). Begin with the uploaded reference and the established paper style; adapt prefab shapes to it. Without a reference choose a suitable profile deliberately from [the four separate style palettes](../../../assets/style-palettes.yaml), not an automatic rainbow default or a venue-to-color rule.
 
 | Module | Useful visual starting point | Verify before drawing |
 |---|---|---|

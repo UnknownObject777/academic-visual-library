@@ -1,0 +1,59 @@
+version: 1
+status: approximate_reference_reconstruction_not_author_hex_or_IEEE_standard
+upstream_commit: 2c7f9e3ccde9171927f6b8f068c16d15d0f5612a
+selection: explicit_user_then_actual_reference_then_project_then_chosen_profile
+profiles:
+  technical_vector:
+    reference: style-references/modern_technical_vector_deepseek_mla.jpg
+    canvas: '#FFFFFF'
+    ink: '#111111'
+    region_blue: '#E7F5FD'
+    region_neutral: '#F3F5F8'
+    region_lilac: '#F6EEFC'
+    outline_blue: '#19769D'
+    outline_neutral: '#3A4759'
+    outline_purple: '#8034B2'
+    tensor_green: '#18A67F'
+    tensor_cyan: '#19BCD0'
+    tensor_amber: '#F4B64C'
+    geometry: orthogonal_paths_segmented_tensor_bars_dense_labels
+  illustrated_modular:
+    reference: style-references/illustrated_modular_agentic_matribo.jpg
+    canvas: '#FFFFFF'
+    ink: '#101E2D'
+    reasoning_fill: '#EDF5FB'
+    execution_fill: '#FCEDE3'
+    memory_fill: '#F3FAF2'
+    reasoning_heading: '#103D6A'
+    execution_heading: '#B8430C'
+    memory_heading: '#315F25'
+    feedback: '#7B348F'
+    exception: '#DC6342'
+    geometry: ink_contours_scientific_sketches_asymmetric_functional_zones
+  airy_mathematical:
+    reference: style-references/pastel_airy_ui_agentic_bo.jpg
+    canvas: '#FFFFFF'
+    ink: '#111111'
+    surrogate_fill: '#FCE6D0'
+    selection_fill: '#F8D6AD'
+    agent_fill: '#D4DEF8'
+    evaluation_fill: '#48515D'
+    evaluation_text: '#FFFFFF'
+    storage_fill: '#E9E9EA'
+    scope_line: '#8C98A4'
+    geometry: serif_math_large_whitespace_dashed_scope_subtle_shadows
+  contrast_ablation:
+    reference: style-references/contrast_ablation_kan.jpg
+    canvas: '#FFFFFF'
+    ink: '#111111'
+    edge: '#777777'
+    baseline_fill: '#F6F1FC'
+    baseline_outline: '#7542C1'
+    baseline_accent: '#E0D0F4'
+    comparison_fill: '#EDFBF3'
+    comparison_outline: '#178668'
+    comparison_accent: '#CEEDE1'
+    curve_cyan: '#34BDC4'
+    curve_amber: '#D18E30'
+    curve_green: '#21936B'
+    geometry: paired_semantic_fields_black_nodes_gray_edges_local_curves

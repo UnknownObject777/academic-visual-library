@@ -9,6 +9,10 @@ metadata:
 
 Use the model's visual understanding to select and adapt actual assets. Templates are editable starting points, not a scientific authority or a mandatory style catalogue.
 
+## Style before assets
+
+Read [design.md](../../design.md): selected reference colors and mark language override all bundled shapes and default fills. View the matching image in [the four style profiles](../../assets/style-palettes.yaml); adapt assets to it before composing. Anti-default review is a required visual check, not a claim of human authorship.
+
 ## Look before choosing
 
 Inspect the user's target content and uploaded style. View the relevant PNG sheet in [the visual catalogue](references/catalog.md), then open only the selected source template or icon. The sheets are for visual selection, not a full-catalogue context dump.
@@ -18,7 +22,8 @@ Inspect the user's target content and uploaded style. View the relevant PNG shee
 - Editable network slides: `../../assets/pptx/network-models.pptx`.
 - Recolorable equipment/system SVGs: `../../assets/icons/`.
 - Drag-and-drop SVG device library for draw.io: `../../assets/drawio/device-icons.xml` (vector image assets with editable labels, not native primitive paths).
-- Optional palette examples: `../../assets/palettes.json`.
+- Reference-derived color roles: [style-palettes.yaml](../../assets/style-palettes.yaml).
+- Legacy template color examples: `../../assets/palettes.json`; never select these automatically.
 
 The repository has 37 entries, including one without an upstream title. Do not invent its model identity. Previews and PPT slides use a limited primitive renderer; original draw.io preserves upstream geometry/styles and remains authoritative. Neither upstream labels nor dimensions automatically describe the user's method.
 

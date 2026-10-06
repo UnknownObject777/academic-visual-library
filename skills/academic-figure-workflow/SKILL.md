@@ -9,6 +9,12 @@ metadata:
 
 Understand the content and reference, compose, draw, inspect and repair. Use the agent's visual reasoning directly; no mandatory scene IR, prompt compiler or serial analysis pipeline.
 
+## First priority: reference color and visual language
+
+Read [design.md](../../design.md) before composing any figure. Inspect actual reference pixels and choose their palette, semantic color roles, accent proportions, ink, typography and mark language before layout. An uploaded reference overrides every stock template and palette. Use the four inspected examples in [style-palettes.yaml](../../assets/style-palettes.yaml) only as separate starting points, never an averaged pastel default. They are approximate tokens, not a scene IR. Arbitrary new references remain supported.
+
+Anti-AI means avoiding unrequested generator defaults and checking reference fidelity. A correct topology with the wrong palette/style is not an accepted result. Compare actual final rendering with the reference and revise observed mismatches. Scientific accuracy remains mandatory; never borrow example claims.
+
 ## Match the requested output
 
 | Request | Finish with |

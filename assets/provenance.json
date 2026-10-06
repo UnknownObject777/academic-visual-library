@@ -119,5 +119,33 @@
     "sha256": "4a67a1d0d7ec5325a5fbe4634acf6c3a68e534b10f8d9cbae8b623dc4d23aef3",
     "source_sha256": "324363c40f54e4ca843de0ad1d023b063b70a26a83bb2e0a9e9f4aad9af37378",
     "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "asset": "assets/style-references/contrast_ablation_kan.jpg",
+    "source_url": "https://raw.githubusercontent.com/Azhi-ss/academic-figure-skills/2c7f9e3ccde9171927f6b8f068c16d15d0f5612a/docs/gallery/contrast_ablation_kan.jpg",
+    "commit": "2c7f9e3ccde9171927f6b8f068c16d15d0f5612a",
+    "sha256": "dba95e6e79f3c7a40c61fb1c5ecaa13d90cb1109532f02aaa00c32876ebc80f2",
+    "license_file": "licenses/Academic-Figure-Skills-LICENSE.txt"
+  },
+  {
+    "asset": "assets/style-references/illustrated_modular_agentic_matribo.jpg",
+    "source_url": "https://raw.githubusercontent.com/Azhi-ss/academic-figure-skills/2c7f9e3ccde9171927f6b8f068c16d15d0f5612a/docs/gallery/illustrated_modular_agentic_matribo.jpg",
+    "commit": "2c7f9e3ccde9171927f6b8f068c16d15d0f5612a",
+    "sha256": "ef84cfac90aafb4ea216f50819a96ef0e6d9191a775568caab6e2aa1b7f45143",
+    "license_file": "licenses/Academic-Figure-Skills-LICENSE.txt"
+  },
+  {
+    "asset": "assets/style-references/modern_technical_vector_deepseek_mla.jpg",
+    "source_url": "https://raw.githubusercontent.com/Azhi-ss/academic-figure-skills/2c7f9e3ccde9171927f6b8f068c16d15d0f5612a/docs/gallery/modern_technical_vector_deepseek_mla.jpg",
+    "commit": "2c7f9e3ccde9171927f6b8f068c16d15d0f5612a",
+    "sha256": "bec1ecba540a2ca7acb42ba088642e08f62f4bd4260c531c9010e4943741d68c",
+    "license_file": "licenses/Academic-Figure-Skills-LICENSE.txt"
+  },
+  {
+    "asset": "assets/style-references/pastel_airy_ui_agentic_bo.jpg",
+    "source_url": "https://raw.githubusercontent.com/Azhi-ss/academic-figure-skills/2c7f9e3ccde9171927f6b8f068c16d15d0f5612a/docs/gallery/pastel_airy_ui_agentic_bo.jpg",
+    "commit": "2c7f9e3ccde9171927f6b8f068c16d15d0f5612a",
+    "sha256": "a814be2b38495c682c752ff687804815fd17691435454729344c95d852f03aa4",
+    "license_file": "licenses/Academic-Figure-Skills-LICENSE.txt"
   }
 ]

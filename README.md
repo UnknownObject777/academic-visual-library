@@ -26,6 +26,12 @@ A multimodal-first academic figure workflow for Codex: inspect your reference an
 
 Use only what the current task needs. The plugin adds resources and procedures to a capable multimodal agent; it does not train a new model or require a separate paid API/MCP service.
 
+## Reference color is the first design decision
+
+The workflow now treats reference palette, semantic color roles, line character and typography as the first visual decisions. See [design.md](design.md), [four reference-derived token profiles](assets/style-palettes.yaml) and their actual bundled previews. Anti-AI means resisting unrequested generator defaults, not banning pastel or pretending colors identify authorship. Stock template fills never override a selected reference. No scene IR is required.
+
+配色与视觉语言是技能的首要设计要求：先看真实参考图，再确定颜色用途、面积占比、线条与字体，最后布局。四套独立色板不混成默认柔彩；新上传的任意风格优先于预置模板。
+
 ## Install in Codex
 
 ```bash

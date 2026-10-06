@@ -13,6 +13,8 @@ Reviewed `Azhi-ss/academic-figure-skills` at commit `2c7f9e3ccde9171927f6b8f068c
 
 Deliberate adaptations: no mandatory FigureSpec/audit serialization; no mandatory first-render style menu when the request supports a reasonable default; no automatic subagent dispatch; no automatic provenance stripping. Explicit review and style-selection requests remain binding.
 
-New material: visually browsable native network/module assets, SVG device library, three optional color conventions, object-level editable PPT sources and a limited draw.io primitive renderer. These assets complement native image generation rather than replacing it for every visual style.
+New material: visually browsable native network/module assets, SVG device library, four separate reference-derived style profiles with actual previews, object-level editable PPT sources and a limited draw.io primitive renderer. These assets complement native image generation rather than replacing it for every visual style.
 
 A local structure/render validation is not a controlled comparison of model output quality. Future evidence should evaluate reference-style fidelity, topology accuracy, label correctness and editability on shared inputs, with actual produced artifacts and disclosed model/tool versions.
+
+User-driven revision: palette and visual language moved to the first workflow decision, backed by `design.md` and role-based YAML tokens. Reference fidelity is checked independently of scientific topology. Generic promotional decoration is no longer a default.

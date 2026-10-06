@@ -1,5 +1,5 @@
 {
-  "status": "optional_local_conventions_not_IEEE_standard",
+  "status": "legacy_template_examples_not_automatic_defaults_not_IEEE_standard",
   "reference_overrides_presets": true,
   "soft": {
     "conv": "#DAE8FC",
@@ -28,5 +28,6 @@
       "#49315C",
       "#543A20"
     ]
-  }
+  },
+  "preferred_style_source": "style-palettes.yaml and actual selected reference"
 }

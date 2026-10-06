@@ -4,7 +4,7 @@ Treat the actual reference as the design authority within explicit user constrai
 
 ## Look for the visual identity
 
-Observe the composition and spatial hierarchy before sampling color. Notice whether the reference uses a shared scene, small multiples, a central mechanism, spatial layering, a wide panorama or compact technical details. Also look at density/whitespace, illustration and mark language, strokes/arrowheads, shapes/surfaces, depth/texture, typography and semantic color relationships.
+Read [the first-priority style contract](../../../design.md). Observe the whole reference, then establish palette and semantic color roles before choosing the target layout. Notice whether the reference uses a shared scene, small multiples, a central mechanism, spatial layering, a wide panorama or compact technical details. Also look at density/whitespace, illustration and mark language, strokes/arrowheads, shapes/surfaces, depth/texture and typography. Match color area and contrast as well as hues.
 
 Choose the features that materially distinguish this reference and reproduce them coherently. A tiny internal note is sufficient. Do not always output this checklist or classify it into a fixed preset. A dark textured isometric style should not quietly become a white rounded-card diagram.
 

@@ -25,3 +25,5 @@ The original academic-figure-skills source at https://github.com/Azhi-ss/academi
 New module sheets, asset instructions and helper code are distributed under the root MIT license. The public analyzer/workflow instructions are a locally rewritten, attributed extension of the academic-figure workflow; retained style references and helpers keep the upstream MIT notice. Upstream asset licenses and notices continue to apply independently.
 
 PlotNeuralNet and WangX0111/drawio-nn-templates were researched as possible future sources but are not bundled in this version. No commercial/vendor stencil sets are implicitly relicensed.
+
+Four gallery JPG references from Azhi-ss/academic-figure-skills (commit `2c7f9e3ccde9171927f6b8f068c16d15d0f5612a`) are bundled in `assets/style-references/` under the upstream repository MIT license, preserved in `licenses/Academic-Figure-Skills-LICENSE.txt`. The profiles reconstruct approximate visual tokens; they do not claim original author hex codes. Example diagram content is reference material, not evidence about this plugin.
