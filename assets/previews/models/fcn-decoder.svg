@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-19.999999999999886 -20.000000000000114 590.0 205.0" width="590.0" height="205.0">
+<rect x="-19.999999999999886" y="-20.000000000000114" width="590.0" height="205.0" fill="white"/>
+<rect x="1.1368683772161603e-13" y="-1.1368683772161603e-13" width="550.0" height="165.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 62.18600000000011,79.31599999999989 L 197.0000000000001,78.99999999999989" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 1.1368683772161603e-13,130.9999999999999 L 332.0000000000001,148.9999999999999" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 92.00000000000011,-1.1368683772161603e-13 L 197.0000000000001,65.99999999999989" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 358.0000000000001,148.9999999999999 L 387.0000000000001,148.90909090909076" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 302.0000000000001,79.99999999999989 L 345.0000000000001,135.9999999999999" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 450.0000000000001,149.9999999999999 L 480.0000000000001,149.9999999999999" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 1.1368683772161603e-13,-1.1368683772161603e-13 L 93.00000000000011,18.999999999999886" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 210.0000000000001,78.99999999999989 L 239.3800000000001,78.54399999999988" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a7)"/>
+<rect x="1.1368683772161603e-13" y="-1.1368683772161603e-13" width="62.0" height="28.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M1.1368683772161603e-13,4.1999999999998865 H57.80000000000011 V27.999999999999886 M57.80000000000011,4.1999999999998865 L62.000000000000114,-1.1368683772161603e-13 M57.80000000000011,27.999999999999886 L62.000000000000114,23.799999999999887" fill="none" stroke="#6C8EBF"/>
+<text x="31.000000000000114" y="13.999999999999886" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">F5</text>
+<rect x="1.1368683772161603e-13" y="63.999999999999886" width="62.0" height="28.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M1.1368683772161603e-13,68.19999999999989 H57.80000000000011 V91.99999999999989 M57.80000000000011,68.19999999999989 L62.000000000000114,63.999999999999886 M57.80000000000011,91.99999999999989 L62.000000000000114,87.79999999999988" fill="none" stroke="#6C8EBF"/>
+<text x="31.000000000000114" y="77.99999999999989" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">F4</text>
+<rect x="1.1368683772161603e-13" y="130.9999999999999" width="62.0" height="28.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M1.1368683772161603e-13,135.19999999999987 H57.80000000000011 V158.9999999999999 M57.80000000000011,135.19999999999987 L62.000000000000114,130.9999999999999 M57.80000000000011,158.9999999999999 L62.000000000000114,154.7999999999999" fill="none" stroke="#6C8EBF"/>
+<text x="31.000000000000114" y="144.9999999999999" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">F3</text>
+<rect x="92.00000000000011" y="-1.1368683772161603e-13" width="62.0" height="28.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M92.00000000000011,4.1999999999998865 H149.80000000000013 V27.999999999999886 M149.80000000000013,4.1999999999998865 L154.0000000000001,-1.1368683772161603e-13 M149.80000000000013,27.999999999999886 L154.0000000000001,23.799999999999887" fill="none" stroke="#9673A6"/>
+<text x="123.00000000000011" y="13.999999999999886" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<ellipse cx="197.0000000000001" cy="78.99999999999989" rx="13.0" ry="13.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="197.0000000000001" y="78.99999999999989" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="240.0000000000001" y="65.99999999999989" width="62.0" height="28.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M240.0000000000001,70.19999999999989 H297.8000000000001 V93.99999999999989 M297.8000000000001,70.19999999999989 L302.0000000000001,65.99999999999989 M297.8000000000001,93.99999999999989 L302.0000000000001,89.79999999999988" fill="none" stroke="#9673A6"/>
+<text x="271.0000000000001" y="79.99999999999989" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<ellipse cx="345.0000000000001" cy="148.9999999999999" rx="13.0" ry="13.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="345.0000000000001" y="148.9999999999999" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="388.0000000000001" y="135.9999999999999" width="62.0" height="28.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M388.0000000000001,140.19999999999987 H445.8000000000001 V163.9999999999999 M445.8000000000001,140.19999999999987 L450.0000000000001,135.9999999999999 M445.8000000000001,163.9999999999999 L450.0000000000001,159.7999999999999" fill="none" stroke="#9673A6"/>
+<text x="419.0000000000001" y="149.9999999999999" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<rect x="480.0000000000001" y="134.9999999999999" width="70.0" height="30.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="515.0000000000001" y="149.9999999999999" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Heatmap</text>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "name": "academic-visual-library",
+  "version": "0.2.0",
+  "description": "Reference-led academic figures with visual template browsing, editable neural-network modules, draw.io/PPT sources and SVG icons.",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Academic Visual Library",
+    "shortDescription": "看图选择素材，组合可编辑学术图",
+    "longDescription": "Use uploaded visual references together with locally bundled architecture templates, neural-network modules and SVG icons. Preserve scientific meaning, restyle native objects and inspect rendered results.",
+    "developerName": "UnknownObject777",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "按照上传风格图绘制我们的网络结构，使用可编辑模块并交付draw.io或PPT源稿。"
+    ],
+    "brandColor": "#194166",
+    "screenshots": [
+      "./assets/poster.png"
+    ]
+  },
+  "homepage": "https://github.com/UnknownObject777/academic-visual-library",
+  "repository": "https://github.com/UnknownObject777/academic-visual-library",
+  "author": {
+    "name": "UnknownObject777"
+  }
+}

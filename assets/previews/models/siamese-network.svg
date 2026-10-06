@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30.0 -10.0 486.0 260.0" width="486.0" height="260.0">
+<rect x="30.0" y="-10.0" width="486.0" height="260.0" fill="white"/>
+<rect x="145.0" y="10.0" width="100.0" height="220.0" rx="6" fill="none" stroke="#9673A6" stroke-width="2"/>
+<text x="195.0" y="21.200000000000003" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#9673A6">Shared Encoder (=)</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 119.79,95.45 L 195.0,112.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.77,185.21 L 195.0,202.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,78.0 L 260.0,95.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,168.0 L 260.0,185.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 330.0,95.0 L 340.0,95.0 L 340.0,140.0 L 360.0,140.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 330.0,185.0 L 340.0,185.0 L 340.0,140.0 L 360.0,140.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 406.0,140.0 L 436.0,140.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<rect x="50.0" y="80.0" width="70.0" height="30.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M50.0,84.5 H115.5 V110.0 M115.5,84.5 L120.0,80.0 M115.5,110.0 L120.0,105.5" fill="none" stroke="#B85450"/>
+<text x="85.0" y="95.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input A</text>
+<rect x="50.0" y="170.0" width="70.0" height="30.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M50.0,174.5 H115.5 V200.0 M115.5,174.5 L120.0,170.0 M115.5,200.0 L120.0,195.5" fill="none" stroke="#B85450"/>
+<text x="85.0" y="185.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input B</text>
+<polygon points="174.0,78.0 216.0,78.0 230.0,112.0 160.0,112.0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="195.0" y="95.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Encoder</text>
+<polygon points="174.0,168.0 216.0,168.0 230.0,202.0 160.0,202.0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="195.0" y="185.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Encoder</text>
+<rect x="260.0" y="80.0" width="70.0" height="30.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="295.0" y="95.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Emb A</text>
+<rect x="260.0" y="170.0" width="70.0" height="30.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="295.0" y="185.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Emb B</text>
+<ellipse cx="383.0" cy="140.0" rx="23.0" ry="23.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="383.0" y="140.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">|a-b|</text>
+<rect x="436.0" y="123.0" width="60.0" height="34.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M436.0,128.1 H490.9 V157.0 M490.9,128.1 L496.0,123.0 M490.9,157.0 L496.0,151.9" fill="none" stroke="#D6B656"/>
+<text x="466.0" y="140.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Similarity</text>
+</svg>

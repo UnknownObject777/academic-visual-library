@@ -1,0 +1,123 @@
+[
+  {
+    "repository": "https://github.com/HuanPP/NN-Models-drawio-library",
+    "commit": "df35e04987b540c3634ff818bbfe223ce239852b",
+    "source_url": "https://raw.githubusercontent.com/HuanPP/NN-Models-drawio-library/df35e04987b540c3634ff818bbfe223ce239852b/nn_model_library.xml",
+    "license": "MIT",
+    "license_file": "licenses/NN-Models-drawio-library-LICENSE.txt",
+    "sha256": "80a20a8668fa7b424cc0532db7957e62238b6e34c4d3e9915fb00be6d54b18c9",
+    "notes": "Original library is preserved. Palette is upstream convention, not an IEEE requirement. Bundled previews/PPT are simplified derivatives.",
+    "source_sha256": "80eb379276eee80ded5dbf0c5fba51a2f2436888142a31f4248f547a2d1417a5",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/server.svg",
+    "asset": "assets/icons/server.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "bfac6e9499349fc35291af953cc48ccef650d82c0ae384950e56d2ad7f1cd25f",
+    "source_sha256": "f7bea54b609dc488f3b848995014041846b2443fd2a880653e9e583d7a034f61",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/router.svg",
+    "asset": "assets/icons/router.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "730a2a3208e1a2d572444add42de42fbed1b12a9539be197c3fe1cb0b10a4562",
+    "source_sha256": "6266881cf691541259ea5e07e5e40ffeba1f61b95c76707d967ebe7827414428",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/network.svg",
+    "asset": "assets/icons/network.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "ee4d3ec6edc45d8b2e62bd579bd869a82703465ed12fa0ad15e5c663e82decfa",
+    "source_sha256": "626be730feea1e5ea7539fbf78b4a3fcb927ce5d7dc43364f2216908672ac792",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/database.svg",
+    "asset": "assets/icons/database.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "8c85423fcb6e5441c7fd9021755378ad51d8c5ad21a3e66c6b920a8ddf1228db",
+    "source_sha256": "471eb14bc8d144896a82dfc4aa9daf350f769f0896f4bef33e50aabdbb51130d",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/monitor.svg",
+    "asset": "assets/icons/monitor.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "01d65488330bd07ba99d5912956c9b4168ab15975e780711ef8c95d897a29f0c",
+    "source_sha256": "d1a443233345724859de8e4fb48968ba91e885e12ddbd710701548bd91b39428",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/cpu.svg",
+    "asset": "assets/icons/cpu.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "8f2351ae26d1340c146b64e1fb4438cf824e43b3ad08eb1293b74903ca1f25c0",
+    "source_sha256": "ec83bb69ec029d367d749afc445b39c8e95891ebf99b0400652677c2b149b99c",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/cloud.svg",
+    "asset": "assets/icons/cloud.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "251756f033fb42c073c460021db216f35d52475dfccd353b343abc7c745bbaa1",
+    "source_sha256": "28a34022ed00177eb1f218eea5d2b7af30d09b529187fe32219e4dd8ea2b9740",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/layers.svg",
+    "asset": "assets/icons/layers.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "530be033e8ef374d3fecaf034c657a6687698506fe55b995da706b36cd74b197",
+    "source_sha256": "ce16d0a955e3581cda17f6b2fd5c5bc2034b405f9cecc31c8ebb8495b4afc1bb",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/brain-circuit.svg",
+    "asset": "assets/icons/brain-circuit.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "522d291ae9eace3c3ad49299dd65494675a4a7706505889f175ce8e1f5b9f3e7",
+    "source_sha256": "a338cb589935721dc00da71ea7d7457ab7fbb85cff90a62cc3ac6b2ebc68cd82",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  },
+  {
+    "repository": "https://github.com/lucide-icons/lucide",
+    "commit": "1fae58d0a9c661a338036838caf3399b5507bab6",
+    "source_url": "https://raw.githubusercontent.com/lucide-icons/lucide/1fae58d0a9c661a338036838caf3399b5507bab6/icons/hard-drive.svg",
+    "asset": "assets/icons/hard-drive.svg",
+    "license": "ISC/MIT (see upstream license)",
+    "license_file": "licenses/Lucide-LICENSE.txt",
+    "sha256": "4a67a1d0d7ec5325a5fbe4634acf6c3a68e534b10f8d9cbae8b623dc4d23aef3",
+    "source_sha256": "324363c40f54e4ca843de0ad1d023b063b70a26a83bb2e0a9e9f4aad9af37378",
+    "packaging_note": "UTF-8 text packaging may normalize newline bytes; source hash and bundled hash are recorded separately."
+  }
+]

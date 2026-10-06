@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5.0 18.0 663.0 317.0" width="663.0" height="317.0">
+<rect x="-5.0" y="18.0" width="663.0" height="317.0" fill="white"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 85.0,107.0 L 115.0,107.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,107.0 L 225.0,107.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,50.0 L 237.0,95.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 249.0,107.0 L 279.0,107.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 85.0,249.0 L 115.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,249.0 L 225.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 195.0,192.0 L 237.0,237.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 249.0,249.0 L 379.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 347.0,107.0 L 379.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a8)"/>
+<text x="379.0" y="245.0" font-family="Arial" font-size="11">cross</text>
+<defs><marker id="a9" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 453.0,249.0 L 483.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a9)"/>
+<defs><marker id="a10" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 553.0,249.0 L 583.0,249.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a10)"/>
+<rect x="15.0" y="92.0" width="70.0" height="30.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="50.0" y="107.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Src Input</text>
+<rect x="115.0" y="92.0" width="80.0" height="30.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="155.0" y="107.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Embedding</text>
+<rect x="115.0" y="38.0" width="80.0" height="24.0" rx="6" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<text x="155.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Pos Enc</text>
+<ellipse cx="237.0" cy="107.0" rx="12.0" ry="12.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="237.0" y="107.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="259.0" y="57.0" width="108.0" height="98.0" rx="6" fill="none" stroke="#6C8EBF" stroke-width="2"/>
+<text x="313.0" y="68.2" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#6C8EBF">Encoder xN</text>
+<rect x="279.0" y="92.0" width="68.0" height="30.0" rx="6" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="313.0" y="107.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Encoder</text>
+<rect x="15.0" y="234.0" width="70.0" height="30.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="50.0" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Tgt Input</text>
+<rect x="115.0" y="234.0" width="80.0" height="30.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="155.0" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Embedding</text>
+<rect x="115.0" y="180.0" width="80.0" height="24.0" rx="6" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<text x="155.0" y="192.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Pos Enc</text>
+<ellipse cx="237.0" cy="249.0" rx="12.0" ry="12.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="237.0" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="359.0" y="199.0" width="124.0" height="116.0" rx="6" fill="none" stroke="#82B366" stroke-width="2"/>
+<text x="421.0" y="210.2" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#82B366">Decoder xN</text>
+<rect x="379.0" y="234.0" width="74.0" height="30.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="416.0" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Decoder</text>
+<rect x="483.0" y="234.0" width="70.0" height="30.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M483.0,238.5 H548.5 V264.0 M548.5,238.5 L553.0,234.0 M548.5,264.0 L553.0,259.5" fill="none" stroke="#D79B00"/>
+<text x="518.0" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Linear</text>
+<rect x="583.0" y="234.0" width="55.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<path d="M583.0,238.5 H633.5 V264.0 M633.5,238.5 L638.0,234.0 M633.5,264.0 L638.0,259.5" fill="none" stroke="#666666"/>
+<text x="610.5" y="249.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Softmax</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 -7.0 280.0 483.0" width="280.0" height="483.0">
+<rect x="0.0" y="-7.0" width="280.0" height="483.0" fill="white"/>
+<rect x="20.0" y="13.0" width="240.0" height="411.0" rx="6" fill="none" stroke="#B85450" stroke-width="2"/>
+<text x="140.0" y="24.200000000000003" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#B85450">DCGAN Discriminator</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,78.0 L 140.0,102.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,134.0 L 140.0,158.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,190.0 L 140.0,214.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,246.0 L 140.0,270.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,302.0 L 140.0,326.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,352.0 L 140.0,376.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,404.0 L 140.0,428.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<rect x="78.0" y="48.0" width="124.0" height="30.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M78.0,52.5 H197.5 V78.0 M197.5,52.5 L202.0,48.0 M197.5,78.0 L202.0,73.5" fill="none" stroke="#B85450"/>
+<text x="140.0" y="63.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input Image</text>
+<rect x="66.0" y="102.0" width="148.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M66.0,106.8 H209.2 V134.0 M209.2,106.8 L214.0,102.0 M209.2,134.0 L214.0,129.2" fill="none" stroke="#6C8EBF"/>
+<text x="140.0" y="118.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Conv + LeakyReLU</text>
+<rect x="66.0" y="158.0" width="148.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M66.0,162.8 H209.2 V190.0 M209.2,162.8 L214.0,158.0 M209.2,190.0 L214.0,185.2" fill="none" stroke="#6C8EBF"/>
+<text x="140.0" y="174.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Conv + LeakyReLU</text>
+<rect x="66.0" y="214.0" width="148.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M66.0,218.8 H209.2 V246.0 M209.2,218.8 L214.0,214.0 M209.2,246.0 L214.0,241.2" fill="none" stroke="#6C8EBF"/>
+<text x="140.0" y="230.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Conv + LeakyReLU</text>
+<rect x="66.0" y="270.0" width="148.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M66.0,274.8 H209.2 V302.0 M209.2,274.8 L214.0,270.0 M209.2,302.0 L214.0,297.2" fill="none" stroke="#6C8EBF"/>
+<text x="140.0" y="286.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Conv + LeakyReLU</text>
+<rect x="88.0" y="326.0" width="104.0" height="26.0" rx="6" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="140.0" y="339.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Flatten</text>
+<rect x="102.0" y="376.0" width="76.0" height="28.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M102.0,380.2 H173.8 V404.0 M173.8,380.2 L178.0,376.0 M173.8,404.0 L178.0,399.8" fill="none" stroke="#D79B00"/>
+<text x="140.0" y="390.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">FC</text>
+<rect x="94.0" y="428.0" width="92.0" height="28.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="140.0" y="442.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Sigmoid</text>
+</svg>

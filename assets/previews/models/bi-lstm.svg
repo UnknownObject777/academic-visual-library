@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 34.0 540.0 174.0" width="540.0" height="174.0">
+<rect x="0.0" y="34.0" width="540.0" height="174.0" fill="white"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 130.0,120.0 L 140.0,120.0 L 140.0,71.0 L 160.0,71.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 130.0,120.0 L 140.0,120.0 L 140.0,171.0 L 160.0,171.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 270.0,71.0 L 280.0,71.0 L 280.0,119.0 L 300.0,119.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 270.0,171.0 L 280.0,171.0 L 280.0,119.0 L 300.0,119.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 330.0,119.0 L 360.0,119.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 420.0,119.0 L 450.0,119.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<rect x="20.0" y="104.0" width="110.0" height="32.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="75.0" y="120.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Sequence Input</text>
+<rect x="160.0" y="54.0" width="110.0" height="34.0" rx="6" fill="#D4EDDA" stroke="#28A745" stroke-width="1.5"/>
+<text x="215.0" y="71.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Forward LSTM</text>
+<rect x="160.0" y="154.0" width="110.0" height="34.0" rx="6" fill="#D4EDDA" stroke="#28A745" stroke-width="1.5"/>
+<text x="215.0" y="171.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Backward LSTM</text>
+<ellipse cx="315.0" cy="119.0" rx="15.0" ry="15.0" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="315.0" y="119.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">C</text>
+<rect x="360.0" y="104.0" width="60.0" height="30.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M360.0,108.5 H415.5 V134.0 M415.5,108.5 L420.0,104.0 M415.5,134.0 L420.0,129.5" fill="none" stroke="#D79B00"/>
+<text x="390.0" y="119.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">FC</text>
+<rect x="450.0" y="104.0" width="70.0" height="30.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M450.0,108.5 H515.5 V134.0 M515.5,108.5 L520.0,104.0 M515.5,134.0 L520.0,129.5" fill="none" stroke="#D6B656"/>
+<text x="485.0" y="119.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output</text>
+</svg>

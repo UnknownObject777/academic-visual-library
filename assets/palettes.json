@@ -1,0 +1,32 @@
+{
+  "status": "optional_local_conventions_not_IEEE_standard",
+  "reference_overrides_presets": true,
+  "soft": {
+    "conv": "#DAE8FC",
+    "attention": "#E1D5E7",
+    "mlp": "#FFE6CC",
+    "pooling": "#D5E8D4",
+    "text": "#24323D",
+    "line": "#475569"
+  },
+  "print": {
+    "background": "#FFFFFF",
+    "text": "#111111",
+    "line": "#333333",
+    "fills": [
+      "#FFFFFF",
+      "#EEEEEE",
+      "#CCCCCC"
+    ]
+  },
+  "dark": {
+    "background": "#111827",
+    "text": "#F9FAFB",
+    "line": "#CBD5E1",
+    "fills": [
+      "#1E3A5F",
+      "#49315C",
+      "#543A20"
+    ]
+  }
+}

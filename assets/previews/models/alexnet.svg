@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18.0 -10.0 204.0 565.0" width="204.0" height="565.0">
+<rect x="18.0" y="-10.0" width="204.0" height="565.0" fill="white"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,50.0 L 120.0,85.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,121.0 L 120.0,145.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,177.0 L 120.0,201.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,235.0 L 120.0,257.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,281.0 L 120.0,303.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,327.0 L 120.0,351.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,385.0 L 120.0,407.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,431.0 L 120.0,453.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 120.0,477.0 L 120.0,501.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a8)"/>
+<rect x="70.0" y="10.0" width="100.0" height="40.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M70.0,16.0 H164.0 V50.0 M164.0,16.0 L170.0,10.0 M164.0,50.0 L170.0,44.0" fill="none" stroke="#B85450"/>
+<text x="120.0" y="21.6" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input</text>
+<text x="120.0" y="38.400000000000006" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">224x224x3</text>
+<rect x="38.0" y="50.0" width="164.0" height="91.0" rx="6" fill="none" stroke="#6C8EBF" stroke-width="2"/>
+<text x="120.0" y="61.2" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#6C8EBF">Conv Stack</text>
+<rect x="58.0" y="85.0" width="124.0" height="36.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M58.0,90.4 H176.6 V121.0 M176.6,90.4 L182.0,85.0 M176.6,121.0 L182.0,115.6" fill="none" stroke="#6C8EBF"/>
+<text x="120.0" y="103.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="11.0" fill="#333333">5 Conv + 3 Pool</text>
+<rect x="70.0" y="145.0" width="100.0" height="32.0" rx="6" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="120.0" y="161.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Flatten</text>
+<rect x="70.0" y="201.0" width="100.0" height="34.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M70.0,206.1 H164.9 V235.0 M164.9,206.1 L170.0,201.0 M164.9,235.0 L170.0,229.9" fill="none" stroke="#D79B00"/>
+<text x="120.0" y="218.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">FC1</text>
+<rect x="82.0" y="257.0" width="76.0" height="24.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="120.0" y="269.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">ReLU</text>
+<rect x="76.0" y="303.0" width="88.0" height="24.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="120.0" y="315.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Dropout</text>
+<rect x="70.0" y="351.0" width="100.0" height="34.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M70.0,356.1 H164.9 V385.0 M164.9,356.1 L170.0,351.0 M164.9,385.0 L170.0,379.9" fill="none" stroke="#D79B00"/>
+<text x="120.0" y="368.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">FC2</text>
+<rect x="82.0" y="407.0" width="76.0" height="24.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="120.0" y="419.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">ReLU</text>
+<rect x="76.0" y="453.0" width="88.0" height="24.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="120.0" y="465.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Dropout</text>
+<rect x="70.0" y="501.0" width="100.0" height="34.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M70.0,506.1 H164.9 V535.0 M164.9,506.1 L170.0,501.0 M164.9,535.0 L170.0,529.9" fill="none" stroke="#D6B656"/>
+<text x="120.0" y="518.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output 1000</text>
+</svg>

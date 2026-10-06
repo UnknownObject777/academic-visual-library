@@ -1,0 +1,10 @@
+{
+  "name": "academic-visual-library",
+  "interface": {"displayName": "Academic Visual Library"},
+  "plugins": [{
+    "name": "academic-visual-library",
+    "source": {"source": "local", "path": "./"},
+    "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+    "category": "Productivity"
+  }]
+}

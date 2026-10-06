@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 -7.0 280.0 453.0" width="280.0" height="453.0">
+<rect x="0.0" y="-7.0" width="280.0" height="453.0" fill="white"/>
+<rect x="20.0" y="13.0" width="240.0" height="413.0" rx="6" fill="none" stroke="#9673A6" stroke-width="2"/>
+<text x="140.0" y="24.200000000000003" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#9673A6">DCGAN Generator</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,74.0 L 140.0,98.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,128.0 L 140.0,152.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,184.0 L 140.0,208.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,240.0 L 140.0,264.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,296.0 L 140.0,320.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 140.0,352.0 L 140.0,376.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<rect x="84.0" y="48.0" width="112.0" height="26.0" rx="6" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="140.0" y="61.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.0" fill="#333333">Noise z</text>
+<rect x="74.0" y="98.0" width="132.0" height="30.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M74.0,102.5 H201.5 V128.0 M201.5,102.5 L206.0,98.0 M201.5,128.0 L206.0,123.5" fill="none" stroke="#D79B00"/>
+<text x="140.0" y="113.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">FC + Reshape</text>
+<rect x="60.0" y="152.0" width="160.0" height="32.0" rx="0" fill="#DCEEF8" stroke="#56A5C9" stroke-width="1.5"/>
+<path d="M60.0,156.8 H215.2 V184.0 M215.2,156.8 L220.0,152.0 M215.2,184.0 L220.0,179.2" fill="none" stroke="#56A5C9"/>
+<text x="140.0" y="168.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Deconv + BN + ReLU</text>
+<rect x="60.0" y="208.0" width="160.0" height="32.0" rx="0" fill="#DCEEF8" stroke="#56A5C9" stroke-width="1.5"/>
+<path d="M60.0,212.8 H215.2 V240.0 M215.2,212.8 L220.0,208.0 M215.2,240.0 L220.0,235.2" fill="none" stroke="#56A5C9"/>
+<text x="140.0" y="224.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Deconv + BN + ReLU</text>
+<rect x="60.0" y="264.0" width="160.0" height="32.0" rx="0" fill="#DCEEF8" stroke="#56A5C9" stroke-width="1.5"/>
+<path d="M60.0,268.8 H215.2 V296.0 M215.2,268.8 L220.0,264.0 M215.2,296.0 L220.0,291.2" fill="none" stroke="#56A5C9"/>
+<text x="140.0" y="280.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Deconv + BN + ReLU</text>
+<rect x="60.0" y="320.0" width="160.0" height="32.0" rx="0" fill="#DCEEF8" stroke="#56A5C9" stroke-width="1.5"/>
+<path d="M60.0,324.8 H215.2 V352.0 M215.2,324.8 L220.0,320.0 M215.2,352.0 L220.0,347.2" fill="none" stroke="#56A5C9"/>
+<text x="140.0" y="336.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Deconv + BN + ReLU</text>
+<rect x="78.0" y="376.0" width="124.0" height="30.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M78.0,380.5 H197.5 V406.0 M197.5,380.5 L202.0,376.0 M197.5,406.0 L202.0,401.5" fill="none" stroke="#D6B656"/>
+<text x="140.0" y="391.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output Image</text>
+</svg>

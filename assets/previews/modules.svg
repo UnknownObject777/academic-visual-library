@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 0.0 960.0 480.0" width="960.0" height="480.0">
+<rect x="0.0" y="0.0" width="960.0" height="480.0" fill="white"/>
+<rect x="20.0" y="20.0" width="160.0" height="80.0" rx="6" fill="#DAE8FC" stroke="#475569" stroke-width="1.5"/>
+<path d="M20.0,32.0 H168.0 V100.0 M168.0,32.0 L180.0,20.0 M168.0,100.0 L180.0,88.0" fill="none" stroke="#475569"/>
+<text x="100.0" y="60.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Convolution</text>
+<polygon points="242.0,20.0 338.0,20.0 370.0,100.0 210.0,100.0" fill="#D5E8D4" stroke="#475569" stroke-width="1.5"/>
+<text x="290.0" y="60.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Pooling</text>
+<rect x="400.0" y="20.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="480.0" y="60.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Normalization</text>
+<rect x="590.0" y="20.0" width="160.0" height="80.0" rx="6" fill="#FFE6CC" stroke="#475569" stroke-width="1.5"/>
+<text x="670.0" y="60.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Activation</text>
+<rect x="780.0" y="20.0" width="160.0" height="80.0" rx="6" fill="#FFE6CC" stroke="#475569" stroke-width="1.5"/>
+<text x="860.0" y="60.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">MLP / FC</text>
+<rect x="20.0" y="140.0" width="160.0" height="80.0" rx="6" fill="#E1D5E7" stroke="#475569" stroke-width="1.5"/>
+<text x="100.0" y="180.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Attention</text>
+<rect x="210.0" y="140.0" width="160.0" height="80.0" rx="6" fill="#DAE8FC" stroke="#475569" stroke-width="1.5"/>
+<text x="290.0" y="180.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Embedding</text>
+<rect x="400.0" y="140.0" width="160.0" height="80.0" rx="6" fill="#DAE8FC" stroke="#475569" stroke-width="1.5"/>
+<text x="480.0" y="180.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Projection</text>
+<rect x="590.0" y="140.0" width="160.0" height="80.0" rx="6" fill="#DAE8FC" stroke="#475569" stroke-width="1.5"/>
+<path d="M590.0,152.0 H738.0 V220.0 M738.0,152.0 L750.0,140.0 M738.0,220.0 L750.0,208.0" fill="none" stroke="#475569"/>
+<text x="670.0" y="180.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Feature map</text>
+<ellipse cx="860.0" cy="180.0" rx="80.0" ry="40.0" fill="#FFF2CC" stroke="#475569" stroke-width="1.5"/>
+<text x="860.0" y="180.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Token</text>
+<ellipse cx="100.0" cy="300.0" rx="80.0" ry="40.0" fill="#FFFFFF" stroke="#475569" stroke-width="1.5"/>
+<text x="100.0" y="300.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Add</text>
+<rect x="210.0" y="260.0" width="160.0" height="80.0" rx="6" fill="#FFFFFF" stroke="#475569" stroke-width="1.5"/>
+<text x="290.0" y="300.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Concat</text>
+<polygon points="480.0,260.0 560.0,300.0 480.0,340.0 400.0,300.0" fill="#F8CECC" stroke="#475569" stroke-width="1.5"/>
+<text x="480.0" y="300.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Loss</text>
+<ellipse cx="670.0" cy="300.0" rx="80.0" ry="40.0" fill="#E1D5E7" stroke="#475569" stroke-width="1.5"/>
+<text x="670.0" y="300.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Prototype</text>
+<rect x="780.0" y="260.0" width="160.0" height="80.0" rx="6" fill="#D5E8D4" stroke="#475569" stroke-width="1.5"/>
+<text x="860.0" y="300.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Aggregation</text>
+<rect x="20.0" y="380.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="100.0" y="420.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Client</text>
+<rect x="210.0" y="380.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="290.0" y="420.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Server</text>
+<rect x="400.0" y="380.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="480.0" y="420.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Router</text>
+<rect x="590.0" y="380.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="670.0" y="420.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Switch</text>
+<rect x="780.0" y="380.0" width="160.0" height="80.0" rx="6" fill="#F5F5F5" stroke="#475569" stroke-width="1.5"/>
+<text x="860.0" y="420.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.0" fill="#24323D">Database</text>
+</svg>

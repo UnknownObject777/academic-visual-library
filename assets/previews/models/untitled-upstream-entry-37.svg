@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 670.0 130.0" width="670.0" height="130.0">
+<rect x="-20.0" y="-20.0" width="670.0" height="130.0" fill="white"/>
+<rect x="0.0" y="0.0" width="630.0" height="90.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<rect x="80.0" y="1.0" width="184.0" height="89.0" rx="6" fill="none" stroke="#6C8EBF" stroke-width="2"/>
+<text x="172.0" y="12.200000000000001" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#6C8EBF">Encoder LSTM</text>
+<rect x="360.0" y="0.0" width="186.0" height="90.0" rx="6" fill="none" stroke="#82B366" stroke-width="2"/>
+<text x="453.0" y="11.200000000000001" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#82B366">Decoder LSTM</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 70.0,50.0 L 100.0,50.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 244.0,50.0 L 274.0,50.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 274.0,35.0 L 380.0,54.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 128.0,50.0 L 158.0,50.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 186.0,50.0 L 216.0,50.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 410.0,54.0 L 440.0,54.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 470.0,54.0 L 500.0,54.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 530.0,54.0 L 556.0,54.0 L 560.0,54.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<rect x="0.0" y="35.0" width="70.0" height="30.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="35.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Input Seq</text>
+<rect x="100.0" y="36.0" width="28.0" height="28.0" rx="6" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="114.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">h1</text>
+<rect x="158.0" y="36.0" width="28.0" height="28.0" rx="6" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="172.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">h2</text>
+<rect x="216.0" y="36.0" width="28.0" height="28.0" rx="6" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="230.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">hT</text>
+<rect x="274.0" y="35.0" width="70.0" height="30.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M274.0,39.5 H339.5 V65.0 M339.5,39.5 L344.0,35.0 M339.5,65.0 L344.0,60.5" fill="none" stroke="#D79B00"/>
+<text x="309.0" y="50.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Context</text>
+<rect x="380.0" y="40.0" width="30.0" height="28.0" rx="6" fill="#D4F1F9" stroke="#4BACC6" stroke-width="1.5"/>
+<text x="395.0" y="54.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">y1</text>
+<rect x="440.0" y="40.0" width="30.0" height="28.0" rx="6" fill="#D4F1F9" stroke="#4BACC6" stroke-width="1.5"/>
+<text x="455.0" y="54.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">y2</text>
+<rect x="500.0" y="40.0" width="30.0" height="28.0" rx="6" fill="light-dark(#d5f1f9, #1d293b)" stroke="light-dark(#4babc5, #5c79a3)" stroke-width="1.5"/>
+<text x="515.0" y="54.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">yT</text>
+<rect x="560.0" y="39.0" width="70.0" height="30.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M560.0,43.5 H625.5 V69.0 M625.5,43.5 L630.0,39.0 M625.5,69.0 L630.0,64.5" fill="none" stroke="#D6B656"/>
+<text x="595.0" y="54.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output Seq</text>
+</svg>

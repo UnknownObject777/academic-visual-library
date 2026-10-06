@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 516.0 448.0" width="516.0" height="448.0">
+<rect x="-20.0" y="-20.0" width="516.0" height="448.0" fill="white"/>
+<rect x="0.0" y="0.0" width="476.0" height="408.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 0.0,54.0 L 353.0,154.0" fill="none" stroke="default" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 0.0,160.0 L 353.0,240.0" fill="none" stroke="default" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#475569"/></marker></defs>
+<path d="M 0.0,266.0 L 353.0,326.0" fill="none" stroke="#475569" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,30.0 L 40.0,54.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,88.0 L 40.0,112.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,136.0 L 40.0,160.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,194.0 L 40.0,218.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,242.0 L 40.0,266.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 40.0,300.0 L 40.0,324.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a8)"/>
+<defs><marker id="a9" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 65.0,336.0 L 90.0,336.0" fill="none" stroke="#333333" stroke-width="1.5"/>
+<defs><marker id="a10" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 90.0,336.0 L 90.0,390.0" fill="none" stroke="#333333" stroke-width="1.5"/>
+<defs><marker id="a11" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 90.0,390.0 L 120.0,390.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a11)"/>
+<defs><marker id="a12" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 215.0,390.0 L 245.0,339.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a12)"/>
+<defs><marker id="a13" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 310.0,339.0 L 340.0,339.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a13)"/>
+<defs><marker id="a14" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 366.0,339.0 L 396.0,339.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a14)"/>
+<defs><marker id="a15" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 310.0,253.0 L 340.0,253.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a15)"/>
+<defs><marker id="a16" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 366.0,253.0 L 396.0,253.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a16)"/>
+<defs><marker id="a17" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 310.0,167.0 L 340.0,167.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a17)"/>
+<defs><marker id="a18" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 366.0,167.0 L 396.0,167.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a18)"/>
+<defs><marker id="a19" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 436.0,150.0 L 436.0,112.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a19)"/>
+<defs><marker id="a20" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 396.0,236.0 L 245.0,152.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a20)"/>
+<defs><marker id="a21" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 396.0,322.0 L 245.0,238.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a21)"/>
+<rect x="5.0" y="0.0" width="70.0" height="30.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M5.0,4.5 H70.5 V30.0 M70.5,4.5 L75.0,0.0 M70.5,30.0 L75.0,25.5" fill="none" stroke="#B85450"/>
+<text x="40.0" y="15.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input</text>
+<rect x="0.0" y="54.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M0.0,59.1 H74.9 V88.0 M74.9,59.1 L80.0,54.0 M74.9,88.0 L80.0,82.9" fill="none" stroke="#6C8EBF"/>
+<text x="40.0" y="71.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Enc 1</text>
+<rect x="15.0" y="112.0" width="50.0" height="24.0" rx="6" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+<text x="40.0" y="124.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Pool</text>
+<rect x="0.0" y="160.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M0.0,165.1 H74.9 V194.0 M74.9,165.1 L80.0,160.0 M74.9,194.0 L80.0,188.9" fill="none" stroke="#6C8EBF"/>
+<text x="40.0" y="177.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Enc 2</text>
+<rect x="15.0" y="218.0" width="50.0" height="24.0" rx="6" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+<text x="40.0" y="230.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Pool</text>
+<rect x="0.0" y="266.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M0.0,271.1 H74.9 V300.0 M74.9,271.1 L80.0,266.0 M74.9,300.0 L80.0,294.9" fill="none" stroke="#6C8EBF"/>
+<text x="40.0" y="283.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Enc 3</text>
+<rect x="15.0" y="324.0" width="50.0" height="24.0" rx="6" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+<text x="40.0" y="336.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Pool</text>
+<rect x="120.0" y="372.0" width="95.0" height="36.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M120.0,377.4 H209.6 V408.0 M209.6,377.4 L215.0,372.0 M209.6,408.0 L215.0,402.6" fill="none" stroke="#6C8EBF"/>
+<text x="167.5" y="390.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Bottleneck</text>
+<rect x="245.0" y="324.0" width="65.0" height="30.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M245.0,328.5 H305.5 V354.0 M305.5,328.5 L310.0,324.0 M305.5,354.0 L310.0,349.5" fill="none" stroke="#9673A6"/>
+<text x="277.5" y="339.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<ellipse cx="353.0" cy="339.0" rx="13.0" ry="13.0" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="353.0" y="339.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">C</text>
+<rect x="396.0" y="322.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M396.0,327.1 H470.9 V356.0 M470.9,327.1 L476.0,322.0 M470.9,356.0 L476.0,350.9" fill="none" stroke="#6C8EBF"/>
+<text x="436.0" y="339.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Dec 3</text>
+<rect x="245.0" y="238.0" width="65.0" height="30.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M245.0,242.5 H305.5 V268.0 M305.5,242.5 L310.0,238.0 M305.5,268.0 L310.0,263.5" fill="none" stroke="#9673A6"/>
+<text x="277.5" y="253.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<ellipse cx="353.0" cy="253.0" rx="13.0" ry="13.0" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="353.0" y="253.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">C</text>
+<rect x="396.0" y="236.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M396.0,241.1 H470.9 V270.0 M470.9,241.1 L476.0,236.0 M470.9,270.0 L476.0,264.9" fill="none" stroke="#6C8EBF"/>
+<text x="436.0" y="253.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Dec 2</text>
+<rect x="245.0" y="152.0" width="65.0" height="30.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M245.0,156.5 H305.5 V182.0 M305.5,156.5 L310.0,152.0 M305.5,182.0 L310.0,177.5" fill="none" stroke="#9673A6"/>
+<text x="277.5" y="167.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Up</text>
+<ellipse cx="353.0" cy="167.0" rx="13.0" ry="13.0" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="353.0" y="167.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">C</text>
+<rect x="396.0" y="150.0" width="80.0" height="34.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M396.0,155.1 H470.9 V184.0 M470.9,155.1 L476.0,150.0 M470.9,184.0 L476.0,178.9" fill="none" stroke="#6C8EBF"/>
+<text x="436.0" y="167.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Dec 1</text>
+<rect x="396.0" y="78.0" width="80.0" height="34.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M396.0,83.1 H470.9 V112.0 M470.9,83.1 L476.0,78.0 M470.9,112.0 L476.0,106.9" fill="none" stroke="#D6B656"/>
+<text x="436.0" y="95.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output</text>
+</svg>

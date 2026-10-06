@@ -1,0 +1,260 @@
+{
+  "models": [
+    {
+      "name": "LeNet-5",
+      "drawio": "assets/drawio/models/lenet-5.drawio",
+      "preview": "assets/previews/models/lenet-5.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "AlexNet",
+      "drawio": "assets/drawio/models/alexnet.drawio",
+      "preview": "assets/previews/models/alexnet.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "VGG Block",
+      "drawio": "assets/drawio/models/vgg-block.drawio",
+      "preview": "assets/previews/models/vgg-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "ResNet Block",
+      "drawio": "assets/drawio/models/resnet-block.drawio",
+      "preview": "assets/previews/models/resnet-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "ResNet Bottleneck",
+      "drawio": "assets/drawio/models/resnet-bottleneck.drawio",
+      "preview": "assets/previews/models/resnet-bottleneck.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "DenseNet Block",
+      "drawio": "assets/drawio/models/densenet-block.drawio",
+      "preview": "assets/previews/models/densenet-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "MobileNet Block",
+      "drawio": "assets/drawio/models/mobilenet-block.drawio",
+      "preview": "assets/previews/models/mobilenet-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "FPN",
+      "drawio": "assets/drawio/models/fpn.drawio",
+      "preview": "assets/previews/models/fpn.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "YOLO Head",
+      "drawio": "assets/drawio/models/yolo-head.drawio",
+      "preview": "assets/previews/models/yolo-head.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Transformer Encoder",
+      "drawio": "assets/drawio/models/transformer-encoder.drawio",
+      "preview": "assets/previews/models/transformer-encoder.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "ViT",
+      "drawio": "assets/drawio/models/vit.drawio",
+      "preview": "assets/previews/models/vit.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "DCGAN Generator",
+      "drawio": "assets/drawio/models/dcgan-generator.drawio",
+      "preview": "assets/previews/models/dcgan-generator.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "DCGAN Discriminator",
+      "drawio": "assets/drawio/models/dcgan-discriminator.drawio",
+      "preview": "assets/previews/models/dcgan-discriminator.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Stacked LSTM",
+      "drawio": "assets/drawio/models/stacked-lstm.drawio",
+      "preview": "assets/previews/models/stacked-lstm.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Stacked GRU",
+      "drawio": "assets/drawio/models/stacked-gru.drawio",
+      "preview": "assets/previews/models/stacked-gru.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Transformer Decoder",
+      "drawio": "assets/drawio/models/transformer-decoder.drawio",
+      "preview": "assets/previews/models/transformer-decoder.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "U-Net",
+      "drawio": "assets/drawio/models/u-net.drawio",
+      "preview": "assets/previews/models/u-net.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Faster R-CNN",
+      "drawio": "assets/drawio/models/faster-r-cnn.drawio",
+      "preview": "assets/previews/models/faster-r-cnn.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "FCN Decoder",
+      "drawio": "assets/drawio/models/fcn-decoder.drawio",
+      "preview": "assets/previews/models/fcn-decoder.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "ASPP Module",
+      "drawio": "assets/drawio/models/aspp-module.drawio",
+      "preview": "assets/previews/models/aspp-module.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Bi-LSTM",
+      "drawio": "assets/drawio/models/bi-lstm.drawio",
+      "preview": "assets/previews/models/bi-lstm.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "EfficientNet MBConv",
+      "drawio": "assets/drawio/models/efficientnet-mbconv.drawio",
+      "preview": "assets/previews/models/efficientnet-mbconv.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "GAT Layer",
+      "drawio": "assets/drawio/models/gat-layer.drawio",
+      "preview": "assets/previews/models/gat-layer.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "MLP-Mixer",
+      "drawio": "assets/drawio/models/mlp-mixer.drawio",
+      "preview": "assets/previews/models/mlp-mixer.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Seq2Seq + Attention",
+      "drawio": "assets/drawio/models/seq2seq-attention.drawio",
+      "preview": "assets/previews/models/seq2seq-attention.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Conditional GAN",
+      "drawio": "assets/drawio/models/conditional-gan.drawio",
+      "preview": "assets/previews/models/conditional-gan.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "GAN",
+      "drawio": "assets/drawio/models/gan.drawio",
+      "preview": "assets/previews/models/gan.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "VAE",
+      "drawio": "assets/drawio/models/vae.drawio",
+      "preview": "assets/previews/models/vae.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Autoencoder",
+      "drawio": "assets/drawio/models/autoencoder.drawio",
+      "preview": "assets/previews/models/autoencoder.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Multi-Head Attn Detail",
+      "drawio": "assets/drawio/models/multi-head-attn-detail.drawio",
+      "preview": "assets/previews/models/multi-head-attn-detail.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Siamese Network",
+      "drawio": "assets/drawio/models/siamese-network.drawio",
+      "preview": "assets/previews/models/siamese-network.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "BERT Block",
+      "drawio": "assets/drawio/models/bert-block.drawio",
+      "preview": "assets/previews/models/bert-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Full Transformer",
+      "drawio": "assets/drawio/models/full-transformer.drawio",
+      "preview": "assets/previews/models/full-transformer.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "GPT Block",
+      "drawio": "assets/drawio/models/gpt-block.drawio",
+      "preview": "assets/previews/models/gpt-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Inception Module",
+      "drawio": "assets/drawio/models/inception-module.drawio",
+      "preview": "assets/previews/models/inception-module.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Swin Transformer Block",
+      "drawio": "assets/drawio/models/swin-transformer-block.drawio",
+      "preview": "assets/previews/models/swin-transformer-block.svg",
+      "source": "NN-Models-drawio-library"
+    },
+    {
+      "name": "Untitled upstream entry 37",
+      "drawio": "assets/drawio/models/untitled-upstream-entry-37.drawio",
+      "preview": "assets/previews/models/untitled-upstream-entry-37.svg",
+      "source": "NN-Models-drawio-library"
+    }
+  ],
+  "modules": [
+    "Convolution",
+    "Pooling",
+    "Normalization",
+    "Activation",
+    "MLP / FC",
+    "Attention",
+    "Embedding",
+    "Projection",
+    "Feature map",
+    "Token",
+    "Add",
+    "Concat",
+    "Loss",
+    "Prototype",
+    "Aggregation",
+    "Client",
+    "Server",
+    "Router",
+    "Switch",
+    "Database"
+  ],
+  "icons": [
+    "server",
+    "router",
+    "network",
+    "database",
+    "monitor",
+    "cpu",
+    "cloud",
+    "layers",
+    "brain-circuit",
+    "hard-drive"
+  ]
+}

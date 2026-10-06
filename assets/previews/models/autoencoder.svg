@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 420.0 122.0" width="420.0" height="122.0">
+<rect x="-20.0" y="-20.0" width="420.0" height="122.0" fill="white"/>
+<rect x="0.0" y="0.0" width="380.0" height="82.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 0.0,18.0 L 88.0,39.79310344827593" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 110.0,18.0 L 160.0,39.79310344827593" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 160.0,24.0 L 248.0,41.862068965517324" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 270.0,64.0 L 318.02,41.870000000000005" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a3)"/>
+<rect x="0.0" y="18.0" width="60.0" height="34.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M0.0,23.1 H54.9 V52.0 M54.9,23.1 L60.0,18.0 M54.9,52.0 L60.0,46.9" fill="none" stroke="#B85450"/>
+<text x="30.0" y="35.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input</text>
+<polygon points="86.0,18.0 134.0,18.0 150.0,62.0 70.0,62.0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="110.0" y="40.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Encoder</text>
+<rect x="160.0" y="24.0" width="60.0" height="28.0" rx="0" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<path d="M160.0,28.2 H215.8 V52.0 M215.8,28.2 L220.0,24.0 M215.8,52.0 L220.0,47.8" fill="none" stroke="#D79B00"/>
+<text x="190.0" y="38.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Latent z</text>
+<polygon points="246.0,20.0 294.0,20.0 310.0,64.0 230.0,64.0" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+<text x="270.0" y="42.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Decoder</text>
+<rect x="320.0" y="23.0" width="60.0" height="34.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M320.0,28.1 H374.9 V57.0 M374.9,28.1 L380.0,23.0 M374.9,57.0 L380.0,51.9" fill="none" stroke="#D6B656"/>
+<text x="350.0" y="40.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output</text>
+</svg>

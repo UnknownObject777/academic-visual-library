@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 415.0 150.0" width="415.0" height="150.0">
+<rect x="-20.0" y="-20.0" width="415.0" height="150.0" fill="white"/>
+<rect x="0.0" y="0.0" width="375.0" height="110.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 130.0,57.0 L 160.0,57.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 250.0,57.0 L 270.0,57.0 L 270.0,15.0 L 283.56,14.61" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 250.0,57.0 L 285.0,80.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a2)"/>
+<rect x="0.0" y="40.0" width="130.0" height="34.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="65.0" y="57.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Token+Seg+Pos Emb</text>
+<rect x="140.0" y="12.0" width="120.0" height="82.0" rx="6" fill="none" stroke="#666666" stroke-width="2"/>
+<text x="200.0" y="22.4" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#666666">Transformer xN</text>
+<rect x="160.0" y="40.0" width="90.0" height="34.0" rx="6" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="205.0" y="57.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Encoder</text>
+<rect x="285.0" y="0.0" width="90.0" height="30.0" rx="0" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<path d="M285.0,4.5 H370.5 V30.0 M370.5,4.5 L375.0,0.0 M370.5,30.0 L375.0,25.5" fill="none" stroke="#9673A6"/>
+<text x="330.0" y="15.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">[CLS] Output</text>
+<rect x="285.0" y="80.0" width="90.0" height="30.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M285.0,84.5 H370.5 V110.0 M370.5,84.5 L375.0,80.0 M370.5,110.0 L375.0,105.5" fill="none" stroke="#D6B656"/>
+<text x="330.0" y="95.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Token Outputs</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.0 10.0 504.0 282.0" width="504.0" height="282.0">
+<rect x="0.0" y="10.0" width="504.0" height="282.0" fill="white"/>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 110.0,56.0 L 130.0,56.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,56.0 L 250.0,42.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,56.0 L 338.0,42.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,56.0 L 426.0,42.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 110.0,156.0 L 130.0,156.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,156.0 L 250.0,142.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,156.0 L 338.0,142.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,156.0 L 426.0,142.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 110.0,256.0 L 130.0,256.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a8)"/>
+<defs><marker id="a9" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,256.0 L 250.0,242.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a9)"/>
+<defs><marker id="a10" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,256.0 L 338.0,242.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a10)"/>
+<defs><marker id="a11" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 220.0,256.0 L 426.0,242.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a11)"/>
+<rect x="20.0" y="40.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M20.0,44.8 H105.2 V72.0 M105.2,44.8 L110.0,40.0 M105.2,72.0 L110.0,67.2" fill="none" stroke="#6C8EBF"/>
+<text x="65.0" y="56.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Feature S1</text>
+<rect x="130.0" y="40.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M130.0,44.8 H215.2 V72.0 M215.2,44.8 L220.0,40.0 M215.2,72.0 L220.0,67.2" fill="none" stroke="#6C8EBF"/>
+<text x="175.0" y="56.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="11.0" fill="#333333">Pred Conv</text>
+<rect x="250.0" y="30.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M250.0,33.6 H304.4 V54.0 M304.4,33.6 L308.0,30.0 M304.4,54.0 L308.0,50.4" fill="none" stroke="#D6B656"/>
+<text x="279.0" y="42.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">bbox</text>
+<rect x="338.0" y="30.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M338.0,33.6 H392.4 V54.0 M392.4,33.6 L396.0,30.0 M392.4,54.0 L396.0,50.4" fill="none" stroke="#D6B656"/>
+<text x="367.0" y="42.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">obj</text>
+<rect x="426.0" y="30.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M426.0,33.6 H480.4 V54.0 M480.4,33.6 L484.0,30.0 M480.4,54.0 L484.0,50.4" fill="none" stroke="#D6B656"/>
+<text x="455.0" y="42.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">class</text>
+<rect x="20.0" y="140.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M20.0,144.8 H105.2 V172.0 M105.2,144.8 L110.0,140.0 M105.2,172.0 L110.0,167.2" fill="none" stroke="#6C8EBF"/>
+<text x="65.0" y="156.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Feature S2</text>
+<rect x="130.0" y="140.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M130.0,144.8 H215.2 V172.0 M215.2,144.8 L220.0,140.0 M215.2,172.0 L220.0,167.2" fill="none" stroke="#6C8EBF"/>
+<text x="175.0" y="156.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="11.0" fill="#333333">Pred Conv</text>
+<rect x="250.0" y="130.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M250.0,133.6 H304.4 V154.0 M304.4,133.6 L308.0,130.0 M304.4,154.0 L308.0,150.4" fill="none" stroke="#D6B656"/>
+<text x="279.0" y="142.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">bbox</text>
+<rect x="338.0" y="130.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M338.0,133.6 H392.4 V154.0 M392.4,133.6 L396.0,130.0 M392.4,154.0 L396.0,150.4" fill="none" stroke="#D6B656"/>
+<text x="367.0" y="142.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">obj</text>
+<rect x="426.0" y="130.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M426.0,133.6 H480.4 V154.0 M480.4,133.6 L484.0,130.0 M480.4,154.0 L484.0,150.4" fill="none" stroke="#D6B656"/>
+<text x="455.0" y="142.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">class</text>
+<rect x="20.0" y="240.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M20.0,244.8 H105.2 V272.0 M105.2,244.8 L110.0,240.0 M105.2,272.0 L110.0,267.2" fill="none" stroke="#6C8EBF"/>
+<text x="65.0" y="256.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Feature S3</text>
+<rect x="130.0" y="240.0" width="90.0" height="32.0" rx="0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<path d="M130.0,244.8 H215.2 V272.0 M215.2,244.8 L220.0,240.0 M215.2,272.0 L220.0,267.2" fill="none" stroke="#6C8EBF"/>
+<text x="175.0" y="256.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="11.0" fill="#333333">Pred Conv</text>
+<rect x="250.0" y="230.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M250.0,233.6 H304.4 V254.0 M304.4,233.6 L308.0,230.0 M304.4,254.0 L308.0,250.4" fill="none" stroke="#D6B656"/>
+<text x="279.0" y="242.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">bbox</text>
+<rect x="338.0" y="230.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M338.0,233.6 H392.4 V254.0 M392.4,233.6 L396.0,230.0 M392.4,254.0 L396.0,250.4" fill="none" stroke="#D6B656"/>
+<text x="367.0" y="242.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">obj</text>
+<rect x="426.0" y="230.0" width="58.0" height="24.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M426.0,233.6 H480.4 V254.0 M480.4,233.6 L484.0,230.0 M480.4,254.0 L484.0,250.4" fill="none" stroke="#D6B656"/>
+<text x="455.0" y="242.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">class</text>
+</svg>

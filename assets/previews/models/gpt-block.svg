@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30.0 0.0 320.0 339.0" width="320.0" height="339.0">
+<rect x="-30.0" y="0.0" width="320.0" height="339.0" fill="white"/>
+<rect x="70.0" y="60.0" width="200.0" height="220.0" rx="6" fill="none" stroke="#9673A6" stroke-width="2"/>
+<text x="170.0" y="271.59999999999997" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#9673A6">GPT Block</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 165.0,50.0 L 165.0,75.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 50.0,91.0 L 105.0,91.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 165.0,213.0 L 165.0,235.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 165.0,107.0 L 165.0,127.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 165.0,157.0 L 165.0,181.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 205.0,35.0 L 250.0,35.0 L 250.0,40.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 250.0,40.0 L 250.0,142.0 L 180.0,142.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 250.0,142.0 L 250.0,250.0 L 180.0,250.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 165.0,265.0 L 130.0,289.0" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a8)"/>
+<rect x="125.0" y="20.0" width="80.0" height="30.0" rx="6" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<text x="165.0" y="35.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Input</text>
+<rect x="-10.0" y="79.0" width="60.0" height="24.0" rx="6" fill="#333333" stroke="#1A1A1A" stroke-width="1.5"/>
+<text x="20.0" y="91.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#FFFFFF">Mask</text>
+<rect x="105.0" y="75.0" width="120.0" height="32.0" rx="6" fill="#E1D5E7" stroke="#9673A6" stroke-width="1.5"/>
+<text x="165.0" y="91.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Masked SA + LN</text>
+<ellipse cx="165.0" cy="142.0" rx="15.0" ry="15.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="165.0" y="142.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="105.0" y="181.0" width="120.0" height="32.0" rx="6" fill="#FFE6CC" stroke="#D79B00" stroke-width="1.5"/>
+<text x="165.0" y="197.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">FFN + LN</text>
+<ellipse cx="165.0" cy="250.0" rx="15.0" ry="15.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="165.0" y="250.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<rect x="130.0" y="289.0" width="80.0" height="30.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M130.0,293.5 H205.5 V319.0 M205.5,293.5 L210.0,289.0 M205.5,319.0 L210.0,314.5" fill="none" stroke="#D6B656"/>
+<text x="170.0" y="304.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output</text>
+</svg>

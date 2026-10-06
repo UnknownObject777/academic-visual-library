@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20.0 -20.0 571.0 307.0" width="571.0" height="307.0">
+<rect x="-20.0" y="-20.0" width="571.0" height="307.0" fill="white"/>
+<rect x="0.0" y="0.0" width="531.0" height="267.0" rx="0" fill="#FFFFFF" stroke="#64748B" stroke-width="1.5"/>
+<rect x="150.0" y="10.0" width="220.0" height="60.0" rx="6" fill="none" stroke="#B85450" stroke-width="2"/>
+<text x="260.0" y="21.200000000000003" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#B85450">Loss: KL + Recon</text>
+<defs><marker id="a0" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 0.0,136.0 L 87.0,157.18181818181813" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a0)"/>
+<defs><marker id="a1" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 283.0,243.0 L 283.0,220.0" fill="none" stroke="default" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a1)"/>
+<defs><marker id="a2" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 130.0,154.0 L 177.0,90.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a2)"/>
+<defs><marker id="a3" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 130.0,154.0 L 177.0,194.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a3)"/>
+<defs><marker id="a4" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 233.0,207.0 L 270.0,207.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a4)"/>
+<defs><marker id="a5" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 216.0,103.0 L 320.0,103.0 L 320.0,155.0 L 344.0,155.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a5)"/>
+<defs><marker id="a6" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 296.0,207.0 L 320.0,207.0 L 320.0,155.0 L 344.0,155.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a6)"/>
+<defs><marker id="a7" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 370.0,155.0 L 400.0,155.0" fill="none" stroke="#333333" stroke-width="1.5" marker-end="url(#a7)"/>
+<defs><marker id="a8" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 205.0,103.0 L 205.0,64.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a8)"/>
+<defs><marker id="a9" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 0.0,136.0 L 25.0,0.0 L 311.0,0.0 L 311.0,40.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a9)"/>
+<defs><marker id="a10" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker></defs>
+<path d="M 476.0,139.0 L 499.0,53.0 L 352.0,53.0" fill="none" stroke="#333333" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#a10)"/>
+<defs><marker id="a11" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="default"/></marker></defs>
+<path d="M 422.0,177.0 L 476.0,154.968" fill="none" stroke="default" stroke-width="1.5" marker-end="url(#a11)"/>
+<rect x="0.0" y="136.0" width="60.0" height="32.0" rx="0" fill="#F8CECC" stroke="#B85450" stroke-width="1.5"/>
+<path d="M0.0,140.8 H55.2 V168.0 M55.2,140.8 L60.0,136.0 M55.2,168.0 L60.0,163.2" fill="none" stroke="#B85450"/>
+<text x="30.0" y="152.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Input</text>
+<polygon points="86.0,133.0 134.0,133.0 150.0,177.0 70.0,177.0" fill="#DAE8FC" stroke="#6C8EBF" stroke-width="1.5"/>
+<text x="110.0" y="155.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Encoder</text>
+<rect x="177.0" y="194.0" width="56.0" height="26.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M177.0,197.9 H229.1 V220.0 M229.1,197.9 L233.0,194.0 M229.1,220.0 L233.0,216.1" fill="none" stroke="#D6B656"/>
+<text x="205.0" y="207.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">sigma</text>
+<rect x="258.0" y="243.0" width="50.0" height="24.0" rx="6" fill="#F5F5F5" stroke="#999999" stroke-width="1.5"/>
+<text x="283.0" y="255.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.0" fill="#333333">eps</text>
+<ellipse cx="283.0" cy="207.0" rx="13.0" ry="13.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="283.0" y="207.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">*</text>
+<ellipse cx="357.0" cy="155.0" rx="13.0" ry="13.0" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="357.0" y="155.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18.0" fill="#333333">+</text>
+<polygon points="398.0,133.0 446.0,133.0 462.0,177.0 382.0,177.0" fill="#D5E8D4" stroke="#82B366" stroke-width="1.5"/>
+<text x="422.0" y="155.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.0" fill="#333333">Decoder</text>
+<rect x="476.0" y="139.0" width="55.0" height="32.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M476.0,143.8 H526.2 V171.0 M526.2,143.8 L531.0,139.0 M526.2,171.0 L531.0,166.2" fill="none" stroke="#D6B656"/>
+<text x="503.5" y="155.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">Output</text>
+<rect x="170.0" y="42.0" width="70.0" height="22.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="205.0" y="53.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">KL</text>
+<rect x="270.0" y="42.0" width="82.0" height="22.0" rx="6" fill="#FFFFFF" stroke="#666666" stroke-width="1.5"/>
+<text x="311.0" y="53.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.0" fill="#333333">Recon</text>
+<rect x="177.0" y="90.0" width="56.0" height="26.0" rx="0" fill="#FFF2CC" stroke="#D6B656" stroke-width="1.5"/>
+<path d="M177.0,93.9 H229.1 V116.0 M229.1,93.9 L233.0,90.0 M229.1,116.0 L233.0,112.1" fill="none" stroke="#D6B656"/>
+<text x="205.0" y="103.0" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.0" fill="#333333">mu</text>
+</svg>
