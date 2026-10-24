@@ -10,6 +10,8 @@ A multimodal-first academic figure workflow for Codex: inspect your reference an
 
 ## What makes it useful
 
+**New in v0.3.0:** the v5 figure-skill suite adds manuscript-to-native-PPT construction, shared arrow/alignment primitives, scoped edits, paper-size checks and tested publication exports. See [the native PPT guide](docs/native-ppt-figures.md) and [editable example](assets/examples/active-learning.pptx).
+
 - **Use your reference's actual visual language.** Composition, illustration, surfaces, strokes, typography and semantic colors—not just a preset palette.
 - **Reuse real editable material.** 37 architecture entries, 20 module primitives, 10 SVG icons, draw.io libraries and native PowerPoint shapes/text/connectors.
 - **Let the model reason directly.** No mandatory FigureSpec, serialized scene graph, prompt hashes or intermediate compiler. Actual editor formats are still used where needed.
@@ -25,6 +27,8 @@ A multimodal-first academic figure workflow for Codex: inspect your reference an
 | `academic-visual-assets` | Visually browse templates, reuse native modules and adapt icons/colors |
 
 Use only what the current task needs. The plugin adds resources and procedures to a capable multimodal agent; it does not train a new model or require a separate paid API/MCP service.
+
+Focused v5 entry points also include `academic-figure-designer`, `academic-figure-draft-analyzer`, `academic-figure-architecture-extractor` and `academic-repo-analyzer`. They preserve existing five-skill usage while the analyzer and asset browser remain available.
 
 ## Reference color is the first design decision
 

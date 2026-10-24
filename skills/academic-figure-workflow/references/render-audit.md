@@ -8,6 +8,8 @@ Tool success is not proof of a correct figure. View the output at useful detail 
 - Quantitative panels: actual values, axes, units, uncertainty and comparison scales are accurate.
 - Deliverable: file opens, geometry/background/format match the request; editable objects and labels are genuinely editable where promised.
 
+For PPT use [native execution](editable-ppt.md): measure at final insertion width, inspect rendered glyphs/text bounds, and verify native mechanism objects. Repeated panels compare arrow size/stroke and feature offsets relative to frames. Local changes use [baseline preservation](local-revision.md). Re-render after the last repair and synchronize all delivered overview/detail canvases.
+
 Prioritize scientific errors and unreadable required labels, then important style mismatches. Correct the observed defect and reinspect affected and preserved regions. Keep a usable revision; stop when the figure is usable or the approach is no longer improving. Do not call unperformed checks passed.
 
 No audit schema or report is required. Give a brief inspection note only when useful, or the report the user requested. Preserve original assets and provenance by default.

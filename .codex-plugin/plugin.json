@@ -1,7 +1,7 @@
 {
   "name": "academic-visual-library",
-  "version": "0.2.0",
-  "description": "Reference-led academic figures with visual template browsing, editable neural-network modules, draw.io/PPT sources and SVG icons.",
+  "version": "0.3.0",
+  "description": "Reference-led academic figures with native editable PowerPoint construction, scoped revisions, paper-size checks and reusable scientific assets.",
   "license": "MIT",
   "skills": "./skills/",
   "interface": {

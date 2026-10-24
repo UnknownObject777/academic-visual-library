@@ -1,5 +1,7 @@
 # Academic Visual Library
 
+**v0.3.0 新增：**集成 v5.0.0 绘图技能，从论文文本与视觉参考完成原生可编辑 PPT figure；支持共享箭头与相对对齐、指定范围修订、论文尺寸字号检查及出版导出。查看[原生 PPT 使用说明](docs/native-ppt-figures.md)和[可编辑样例](assets/examples/active-learning.pptx)。保留现有分析入口、素材库与图像生成分支，并兼容五个独立绘图技能入口。
+
 **看参考图，用可编辑素材，直接完成学术绘图。**
 
 ![宣传海报](assets/poster.png)

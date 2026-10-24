@@ -1,0 +1,21 @@
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import {pathToFileURL} from 'node:url';
+import {createFigure} from '../scripts/figure-native.mjs';
+const requireFromRuntime=createRequire(process.env.RUNTIME_NODE_MODULES?path.join(process.env.RUNTIME_NODE_MODULES,'figure-example.cjs'):import.meta.url);
+const artifact=await import(pathToFileURL(requireFromRuntime.resolve('@oai/artifact-tool')).href);
+if(!process.argv[2])throw new Error('Usage: node active-learning.mjs /absolute/private/candidate.pptx');
+const f=createFigure({widthMm:182,heightMm:86,style:{font:'Arial',fontPt:9.5,ink:'#1C252D',outline:'#53616C',lineMm:.25,arrowMm:.3,headMm:1.25}},artifact);
+const c=f.addCanvas();
+c.text('title','Active learning for materials screening',8,5,166,10,{fontPt:12,bold:true});
+const nodes=[['pool','Candidate\npool',9,28,'#E9EFF4'],['surrogate','Surrogate\nmodel',52,28,'#DDECE5'],['acquisition','Acquisition\nselection',96,31,'#F6E7CF'],['experiment','Experiment',142,31,'#E9EFF4']];
+for(const[id,label,x,w,fill]of nodes){c.rect(id,x,28,w,15,{fill,lineMm:id==='acquisition'?.4:.25});c.text(id+'-label',label,x,28,w,15);}
+c.arrow('pool-to-surrogate',[[37,35.5],[52,35.5]]);
+c.arrow('surrogate-to-acquisition',[[80,35.5],[96,35.5]]);
+c.arrow('acquisition-to-experiment',[[127,35.5],[142,35.5]]);
+c.arrow('measurement-update',[[157.5,43],[157.5,65],[66,65],[66,43]]);
+c.text('measurement-label','New measurement',83,54,58,8);
+c.text('fixture-label','Conceptual test fixture; no measured results',8,75,166,7,{fontPt:9.5});
+c.notes('Source: examples/active-learning.md. Synthetic mechanism description for cross-domain execution testing. No empirical performance claims or measured plots. All geometry and labels are native.');
+await f.saveDraft(path.resolve(process.argv[2]));
+console.log('Wrote native active-learning candidate. Finalize and visually inspect before delivery.');
