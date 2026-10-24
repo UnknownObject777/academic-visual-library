@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "rag-structured",
+  "kind": "visual-preset",
+  "version": "0.1.0",
+  "title": "RAG 方法总览：清晰分区",
+  "status": "seed_requires_reference_and_render_review",
+  "license": "MIT",
+  "appliesTo": {
+    "domain": "rag",
+    "figureTypes": ["method-overview"],
+    "renderers": ["drawio"]
+  },
+  "sourceRefs": [
+    {
+      "id": "existing-technical-vector",
+      "url": "https://github.com/UnknownObject777/academic-visual-library/blob/9fee65fe33143b2f71dfc5284be45c1efbc88022/assets/style-palettes.yaml",
+      "profile": "technical_vector",
+      "status": "approximate_reference_reconstruction_not_author_hex_or_IEEE_standard"
+    }
+  ],
+  "tokens": {
+    "canvas": "#FFFFFF",
+    "ink": "#111111",
+    "regions": {"primary": "#E7F5FD", "secondary": "#F3F5F8", "accent": "#F6EEFC"},
+    "outlines": {"primary": "#19769D", "secondary": "#3A4759", "accent": "#8034B2"},
+    "typography": {"family": {"ref": "publication.fontFamily"}, "bodyPt": {"ref": "publication.bodyPt"}},
+    "strokes": {"mainPt": {"ref": "publication.mainStrokePt"}},
+    "spacing": {"moduleGap": {"ref": "layout.confirmedModuleGap"}}
+  },
+  "layoutRules": {
+    "readingOrder": "adapt_to_confirmed_method",
+    "connectors": "orthogonal_when_appropriate",
+    "moduleCount": "derive_from_method_evidence",
+    "panelCount": "derive_from_method_evidence"
+  },
+  "componentRoles": ["query", "corpus", "retriever", "evidence-group", "generator", "output", "decision", "merge"],
+  "files": [],
+  "requiredCapabilities": ["native-text", "native-shape", "bound-connector", "group"],
+  "examples": [],
+  "limitations": [
+    "尚未完成 RAG 与 REPLUG 参考图归纳和实际渲染。",
+    "引用型字体、字号、线宽和间距必须在任务中解析后才能绘制。",
+    "组件角色不规定每篇论文必须存在这些模块。",
+    "本预设不代表 IEEE、Nature 或任何会议的官方风格。"
+  ]
+}
